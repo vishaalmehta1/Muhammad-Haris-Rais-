@@ -1,65 +1,80 @@
 # PORTFOLIO
 
 ---
-Email: [ahsanm5@vcu.edu](mailto:ahsanm5@vcu.edu)
+Email: [raismh@vcu.edu](mailto:raismh@vcu.edu)
 <br>
-Tel No.: (+1)-804-591-6460
+Tel No.: 1-804-997-6984
 <br>
 Github: [mahsan321](https://github.com/mahsan321)
 <br>
 Google Scholar [link](https://scholar.google.com/citations?user=he1clHEAAAAJ&hl=en&oi=sra)
 
 
-## RESEARCH INTEREST  
-* Cyber-Physical System 
-* Security
-* Additive Manufacturing
-* Industry 4.0
-* Internet of Things
+## Education
+* PhD in Computer Science: Specialization in Cybersecurity (in progress) at Virginia Commonwealth University, VA, USA
+* M.E. Computer Networks and Performance Evaluation , N.E.D University, 1st Position, CGPA 4.0
+* B.E Electrical Engineering, N.U.S.T, EME College, 1st Position; CGPA: 3.942
+
+## Certifications
+* CCIE (R&amp;S) – Cisco Certified Internetwork Expert # 23662
+* JNCIA(JUNOS) - Juniper Networks Certified Internet Associate
+* CEHv7- Certified Ethical Hacker – ECC960001
+* CCIE Security (written)
+
+## Awards and Honors
+* Best student paper award at DFRWS-EU 2022
+* Gold medal for 1st position in Bachelor of Engineering and Master of Engineering
+* Gold medal for the “Overall Best Performer” at the University college
+* Gold Medal for the “Best Speaker” at the University college
+* Numerous OUTSTANDING reports and Certificates of appreciation for being the best performer
+
+## Skills
+# Technical Skills
+* Research based solutions for Cybersecurity problems 
+* IT Network solution design
+* Deployment of IP MPLS Networks
+* Technical Writing
+* Technology operations and management
+* Network performance assessment
+* Technical project management
+* Coding in Java and Python
+# Soft Skills
+* Leadership and Team building
+* Ownership
+* Effective communication and presentation skills
+* Problem solving
+* Integrity and Truthfulness
+* Passion to learn
 
 
 ## PUBLICATIONS
-* <div style="text-align: justify"> Bilal Imran, Muhammad Ahsan, Ali Hammad Akbar, Ghalib A. Shah, "SecGW: On Providing DTLS based Multi-threading in MQTT-SN Gateway Application", (Under-Review)</div>
-* <div style="text-align: justify"> Muhammad Rais, Muhammad Ahsan, Vaibhav Sharma, Radhika Barua, Robert Prins and Irfan Ahmed, “Low-Magnitude Infill Structure Manipulation Attacks on Fused Filament Fabrication Printers”, International Conference on Critical Infrastructure Protection. Springer, Cham, 2022.</div>
-* <div style="text-align: justify"> Muhammad Ahsan, Bilal Afzal, Bilal Imran, Asim Tanwir, Ali Hammad Akbar and Galib. A. Shah. "<a href="https://ieeexplore.ieee.org/abstract/document/8802473">OneM2M Architecture Based Secure MQTT Binding in Mbed OS</a>", SSIoT 2019 - IEEE Euro S&P Workshop on Software Security for Internet of Things.</div>
-* <div style="text-align: justify"> Bilal Imran, Bilal Afzal, Dr. Ali Hammad Akbar, Muhammad Ahsan, Dr. Ghalib A. Shah. "<a href = "https://ieeexplore.ieee.org/abstract/document/9013863">MISA: Minimalist Implementation of oneM2M Security Architecture for Constrained IoT Devices</a>", IEEE Globecom 2019.</div>
-* <div style="text-align: justify"> Muhammad Ahsan, Naseer Ahmad, Waqas Badar. "<a href="https://ieeexplore.ieee.org/abstract/document/8921376">Simulation of Solar angles for maximizing Efficiency of Solar Thermal Collectors</a>", 3rd International Conference on Energy Conservation and Efficiency (ICECE), 2019.</div>
-
+* <div style="text-align: justify"> Memory Forensic Analysis of a Programmable Logic Controller in Industrial Control Systems</div>
+* <div style="text-align: justify"> Low-magnitude Infill-structure Manipulation Attacks on FFF-based 3D Printers</div>
+* <div style="text-align: justify"> Dynamic-thermal and Localized Filament-kinetic Attacks on Fused Filament Fabrication based 3D
+Printing Process</div>
+* <div style="text-align: justify"> JTAG-based PLC Memory Acquisition Framework for Industrial Control Systems</div>
+* <div style="text-align: justify"> Spatiotemporal G-code Modeling for Secure FDM-based 3D Printing</div>
+* <div style="text-align: justify"> Evolving Internet Traffic Trend in Pakistan</div>
 ## EXPERIENCE
 #### Security and Forensics Engineering (SAFE) LAB, VCU, Richomond
-Position: Graduate Assistant
+Position: Graduate Research Assistant
 <br>
-Aug 2021 - Current
-#### Al-Khawarizmi Institute of Computer Science (KICS) UET, Lahore 
-Position: Team Lead
+2019 - Current
+#### Wateen – Nationwide Telecom &amp; Cisco Gold Partner 
+Position: Manager Advanced Technical Services
 <br>
-Oct 2014 - July 2021
-
+2011 - 2018
+#### Warid Telecom 
+Position: Assistant Manager IP Backbone
+<br>
+2007 - 2010
+#### Directing Staff at College of Electrical and Mechanical Engineering
+Position: Instructor
+<br>
+2003 - 2006
 ## PROJECTS
-#### [OneM2M Framework](https://github.com/AikM2M):
-* <div style="text-align: justify">Implementation of Horizontal Layer OneM2M Standard Framework for M2M and IoTs Sensor Nodes on MbedOS running over Nucleo STM32 L476rg boards.</div>
-* <div style="text-align: justify">MQTT client/broker model implementation on Raspbian Jessie OS running over Raspberry Pi 3 Gateway design for IoT Applications which supports multiple service functionalities including:</div>
-    - Registration
-    - Security Association and Establishment (SAE)
-    - Data Management and Repository (DMR)
-    - Access Control Policies (ACPs)
-    - Subscription and Notification
-    - Secure MQTT/MQTT-SN Binding
-* Transport Layer Protocol DTLS/UDP and TLS/TCP implementation.
-* Serialization/de-serialization of JSON request/response packets.
-* DTLS Support for MQTT-SN Multi-threaded Gateway Application.
-
-#### Other Projects:
-* <div style="text-align: justify">Firewall rules Analyzing, Writing and Testing for SCADA/IoT Protocols. </div>
-* <div style="text-align: justify">Use of different tools for Scanning, Sniffing, Spoofing, MITM and other Attack Vectors generation. </div>
-* <div style="text-align: justify">Common Vulnerabilities and Exposures (CVE) reproduction for generation of different attacks on network to test Firewall rules. </div>
-* <div style="text-align: justify">Automation of Paddy Dryer for Rice Mill industry and UET Water Tanks. </div>
-* <div style="text-align: justify">Simulation and Modeling of Solar angles for Tracking Surface in MATLAB. </div>
-* <div style="text-align: justify">PLC SCADA control for Dual Axis Solar Tracking System. </div>
-* <div style="text-align: justify">Design and Development of Motor Test Bench for PCSIR Laboratories. </div>
-* <div style="text-align: justify">Short Course Instructor for Programmable Logic Controller (PLC). </div>
-* <div style="text-align: justify">Development of Energy Efficiency Advisory course in collaboration with sequa gGmbH – GiZ. </div>
-
-## ACADEMIC ACTIVITIES
-* ICOSST’16, ICOSST’17, ICOSST’18 and ICOSST’19 Event Organizer.
-* ICECE’17 and ICECE’18 Event Organizer.
+* <div style="text-align: justify">Memory Forensic Analysis Methodology for Programmable Logic Controllers, AAFS, 2022</div>
+* <div style="text-align: justify">A Forensic Readiness Model for the Fused Filament Fabrication (FFF) -Based AM Process, AAFS, 2022</div>
+* <div style="text-align: justify">On Detecting Sabotage Attacks on 3D Printing Processes, CIMSS 2021</div>
+* <div style="text-align: justify">Forensic Readiness Framework for 3D Printing Process: A Case Study of Ultimaker 3, DFRWS, 2020</div>
+* <div style="text-align: justify">Security Aspects of Cloud, International IT and Telecom Show “ITCN ASIA”, 2013</div>
