@@ -47,7 +47,7 @@ Google Scholar [link](https://scholar.google.com/citations?user=he1clHEAAAAJ&hl=
 * Passion to learn
 
 
-## PUBLICATIONS
+## Publications
 * <div style="text-align: justify"> Memory Forensic Analysis of a Programmable Logic Controller in Industrial Control Systems</div>
 * <div style="text-align: justify"> Low-magnitude Infill-structure Manipulation Attacks on FFF-based 3D Printers</div>
 * <div style="text-align: justify"> Dynamic-thermal and Localized Filament-kinetic Attacks on Fused Filament Fabrication based 3D
@@ -55,7 +55,7 @@ Printing Process</div>
 * <div style="text-align: justify"> JTAG-based PLC Memory Acquisition Framework for Industrial Control Systems</div>
 * <div style="text-align: justify"> Spatiotemporal G-code Modeling for Secure FDM-based 3D Printing</div>
 * <div style="text-align: justify"> Evolving Internet Traffic Trend in Pakistan</div>
-## EXPERIENCE
+## Experience
 #### Security and Forensics Engineering (SAFE) LAB, VCU, Richomond
 Position: Graduate Research Assistant
 <br>
@@ -72,7 +72,7 @@ Position: Assistant Manager IP Backbone
 Position: Instructor
 <br>
 2003 - 2006
-## PROJECTS
+## Projects
 * <div style="text-align: justify">Memory Forensic Analysis Methodology for Programmable Logic Controllers, AAFS, 2022</div>
 * <div style="text-align: justify">A Forensic Readiness Model for the Fused Filament Fabrication (FFF) -Based AM Process, AAFS, 2022</div>
 * <div style="text-align: justify">On Detecting Sabotage Attacks on 3D Printing Processes, CIMSS 2021</div>
