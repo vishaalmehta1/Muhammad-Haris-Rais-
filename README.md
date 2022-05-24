@@ -29,7 +29,7 @@ Google Scholar [link](https://scholar.google.com/citations?user=he1clHEAAAAJ&hl=
 * Numerous OUTSTANDING reports and Certificates of appreciation for being the best performer
 
 ## Skills
-# Technical Skills
+#### Technical Skills
 * Research based solutions for Cybersecurity problems 
 * IT Network solution design
 * Deployment of IP MPLS Networks
@@ -38,7 +38,7 @@ Google Scholar [link](https://scholar.google.com/citations?user=he1clHEAAAAJ&hl=
 * Network performance assessment
 * Technical project management
 * Coding in Java and Python
-# Soft Skills
+#### Soft Skills
 * Leadership and Team building
 * Ownership
 * Effective communication and presentation skills
