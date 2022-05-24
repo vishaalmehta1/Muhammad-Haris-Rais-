@@ -38,6 +38,7 @@ Google Scholar [link](https://scholar.google.com/citations?user=he1clHEAAAAJ&hl=
 * Network performance assessment
 * Technical project management
 * Coding in Java and Python
+
 #### Soft Skills
 * Leadership and Team building
 * Ownership
@@ -55,6 +56,7 @@ Printing Process</div>
 * <div style="text-align: justify"> JTAG-based PLC Memory Acquisition Framework for Industrial Control Systems</div>
 * <div style="text-align: justify"> Spatiotemporal G-code Modeling for Secure FDM-based 3D Printing</div>
 * <div style="text-align: justify"> Evolving Internet Traffic Trend in Pakistan</div>
+
 ## Experience
 #### Security and Forensics Engineering (SAFE) LAB, VCU, Richomond
 Position: Graduate Research Assistant
@@ -72,6 +74,7 @@ Position: Assistant Manager IP Backbone
 Position: Instructor
 <br>
 2003 - 2006
+
 ## Projects
 * <div style="text-align: justify">Memory Forensic Analysis Methodology for Programmable Logic Controllers, AAFS, 2022</div>
 * <div style="text-align: justify">A Forensic Readiness Model for the Fused Filament Fabrication (FFF) -Based AM Process, AAFS, 2022</div>
