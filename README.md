@@ -7,7 +7,7 @@ Tel No.: 1-804-997-6984
 <br>
 Github: [mahsan321](https://github.com/mahsan321)
 <br>
-Google Scholar [link](https://scholar.google.com/citations?user=he1clHEAAAAJ&hl=en&oi=sra)
+Google Scholar [link](https://scholar.google.com/citations?user=bQ8qBw4AAAAJ&hl=en)
 
 
 ## Education
